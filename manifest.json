@@ -15,8 +15,9 @@
                 "scripts/content.js"
             ],
             "matches": [
-                "https://*/*",
-                "http://*/*"
+                "*://*.youtube.com/*",
+                "*://*.reddit.com/*",
+                "*://*.twitch.tv/*"
             ]
         }
     ]
