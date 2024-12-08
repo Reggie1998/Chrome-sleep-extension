@@ -1,2 +1,2 @@
 # Chrome-sleep-extension
-Turn off youtube/other time waste sites after x o clock
+allows up to hour of youtube/twitch/reddit per day
